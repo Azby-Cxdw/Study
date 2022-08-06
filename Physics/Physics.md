@@ -18,7 +18,12 @@ Simply put, it observes nature, represents it mathematically and concludes with 
 
 <br>
 
-<img style="margin: auto; display: block; border: 2px solid cyan;" src="resources/physics-intro.jpg" alt="physics-intro" width=50%>
+<p align="center">
+
+<img style="border: 2px solid cyan;" src="resources/physics-intro.jpg" alt="physics-intro" width=50%>
+
+</p>
+
 </details>
 
 ---
