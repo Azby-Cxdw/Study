@@ -18,6 +18,8 @@ The word **Physics** originates from the Greek word *physikḗ* (Physica), which
 
 Simply put, it observes nature, represents it mathematically and concludes with the experiment.
 
+Physics is the foundation of all other sciences. The laws of physics govern everything in the Universe from molecules to planets and stars.
+
 <br>
 
 <p align="center">
@@ -48,7 +50,7 @@ Simply put, it observes nature, represents it mathematically and concludes with 
 
 > Physical quantity is a physical property of a phenomenon, body or substance that can be quantified by measurement.  
 
-A physical quantity can be expressed as the combination of a magnitude expressed by a number - usually a real number and a standard unit.
+A physical quantity can be expressed as the combination of a magnitude expressed by a number - usually a real number and a standard unit. For example, the physical quantity mass can be quantified as n kg, where n is the numerical value and kg is the unit.
 
 <br>
 
@@ -58,7 +60,27 @@ A physical quantity can be expressed as the combination of a magnitude expressed
 
 1. Base Quantities
 
+**The seven base quantities and their corresponding units are:**
+
+Base Quantity | Base Unit | Symbol
+:--|:--:|:--:
+Time | second | s
+Length | meter | m
+Mass | kilogram | kg
+Electric Current | ampere | A
+Thermodynamic temperature | Kelvin | K
+Amount of substance | mole | mol
+Luminous Intensity | candela | cd
+
+
 2. Derived Quantities
+
+---
+
+### SI Units
+
+ > SI Units are internationally recognized units used by all scientists and used to define certain concepts. The seven base units are listed above.
+
 
 ---
 
@@ -125,7 +147,9 @@ A physical quantity can be expressed as the combination of a magnitude expressed
 
 ### Distance [s]
 
-> Distance is defined as **the magnitude or amount of space between two points, without any regard to direction. We can define distance as to how much ground an object has covered despite its starting or ending point.**
+> Distance is defined as **the magnitude or amount of space(length) between two points, without any regard to direction. We can define distance as to how much ground an object has covered during its motion despite its starting or ending point.**
+
+Distance is the magnitude of displacement between two positions.
 
 Note that the distance between two positions is not the same as the distance traveled between them. Distance traveled is the total length of the path traveled between two positions.
 
@@ -133,14 +157,21 @@ Distance is a scalar quantity as it only depends upon the magnitude and not the 
 
 
 - Distance is scalar
-- The SI Unit of distance is meter(m).
+- The SI Unit of distance is meter(m). The basic unit of distance is the centimeter (cm). There are 100 centimeters in a meter and 1000 meters in a kilometer.
 - Dimension = ""
+- Distance is always positive.
 
 > **d** = **√ (x<sub>2</sub>** - **x<sub>1</sub>)<sup>2</sup>** + **(y<sub>2</sub>** - **y<sub>1</sub>)**<sup>2</sup>
 
 - **d** = distance
 - **(x<sub>1</sub>** - **y<sub>1</sub>)** = coordinates of the first point
 - **(x<sub>2</sub>** - **y<sub>2</sub>)** = coordinates of the second point
+
+OR
+
+> **Distance** = **Speed** x **Time**
+> **d** = **s**.**t**
+> where _s_ stands for distance or displacement, _v_ for speed or velocity and t for time. 
 
 ---
 
@@ -179,7 +210,7 @@ It is important to note that the distance traveled, however, can be greater than
 
 By definition it is a vector quantity. If a body moves from a position A to another position B, we can represent its displacement by drawing a line from A to B. The direction of displacement can be shown by puttin an arrow head at B, which indicates the direction of displacement.
 
-Displacement **Δx** is the change in position of an object. In symbols, displacement **Δx** is defined to be  
+Displacement **Δx** is the difference between the final position and the initial position of an object. In symbols, displacement **Δx** is defined to be  
 
 > **Δx** = **x<sub>f</sub>** - **x<sub>i</sub>**
 
@@ -194,6 +225,7 @@ Displacement is a vector. This means it has a direction as well as a magnitude a
 - Displacement is a vector quantity.
 - The SI Unit of displacement is meter(m).
 - Dimension = ""
+- Displacement can be positive or negative
 
 ---
 
@@ -234,6 +266,8 @@ Thus, if you travel 12 miles in 3 hours, the average speed is 4 miles per hour (
 - The SI Unit of speed is meters per second(m/s)
 - Other common units of speed are kilometers per hour(km/h) and miles per hour(mph or mi/h)
 - Dimension = **M<sup>0</sup>L<sup>1</sup>T<sup>-1</sup>**
+- Speed is always positive.
+- Speed is absolute value of velocity |v|
 
 #### Formula
 
@@ -254,7 +288,7 @@ Where _**s**_ is the speed in meters per second (_**ms<sup>-1</sup>**_  / **_m/s
 
 **Variable speed**: Whenever an item travels a varied distance at equivalent time intervals, it is said to be moving at a variable speed.  
 
-**Average speed**: It is defined as uniform speed, which is represented by the proportion of an entity's total distance traveled versus time taken. Average speed is the distance traveled divided by the time interval.   
+**Average speed**: It is defined as uniform speed, which is represented by the proportion of an entity's total distance traveled versus the total time taken. Average speed is the distance traveled divided by the time interval.   
 
 **Instantaneous speed**: The speed of an item at any point in time has been referred to as instantaneous speed.
 
@@ -281,12 +315,13 @@ _OR_
 
 > The rate of change of displacement of a body in a particular direction with respect to time.
 
-Velocity is basically speeding in a specific direction. It is a vector quantity, which means we need both magnitude (speed) and direction to define velocity.
+Velocity is basically speeding in a specific direction. It tells us not only how fast an object is moving but also the direction in which it is moving. It is a vector quantity, which means we need both magnitude (speed) and direction to define velocity.
 
 - It is a vector quantity
 - It is denoted by **v**  
 - The SI Unit of velocity is meter per second(**m/s** or **ms-1**)
 - The dimension of velocity are LT<sup>-1</sup> or M<sup>0</sup>L<sup>1</sup>T<sup>-1</sup>
+- Velocity can be positive or negative. The sign implies the direction of the displacement.
 
 
 #### Formula
@@ -325,7 +360,7 @@ To calculate the average velocity, we need to divide the total displacement by t
 > Average Velocity = Total Displacement / Time Interval  
 > **v** = **∆x** / **∆t** = **x<sub>f</sub>** - **x<sub>i</sub>** / **t<sub>f</sub>** - **t<sub>i</sub>**
 
-Where v is the average velocity, **Δx** is the displacement, **Δt** is the total time, **x<sub>f</sub>** and **x<sub>i</sub>** are the initial and final positions, **t<sub>f</sub>** and **t<sub>i</sub>** are the starting and ending times.
+Where v is the average velocity, **Δd** is the displacement, **Δt** is the total time, **x<sub>f</sub>** and **x<sub>i</sub>** are the initial and final positions, **t<sub>f</sub>** and **t<sub>i</sub>** are the starting and ending times.
 
 If the starting time is zero, then the formula becomes:
 
@@ -341,7 +376,7 @@ If the starting time is zero, then the formula becomes:
 
 ---
 
-#### Instantaneous Velocity
+#### Instantaneous Velocitys
 
 > The velocity of an object under motion at a specific point of time is called instantaneous velocity.
 
@@ -457,19 +492,35 @@ It can be defined as the distance covered by an object in unit time. | Velocity 
 
 ### Acceleration
 
-> The rate of change of velocity over time is called acceleration.
+> The rate of change of velocity over time is called acceleration. When velocity changes, acceleration exists.
 
-If there is a change in magnitude or the direction in the velocity of a body the body is said to be accelerating. By definition acceleration is a vector quantity.
+If there is a change in magnitude or the direction in the velocity of a body the body is said to be accelerating. By definition acceleration is a vector quantity. 
+
+If the object is speeding up, the velocity and acceleration will have same signs or else they will be speeding in negative direction or decelerating.
+
+Acceleration is any change in the state of motion. There are 3 basic ways to change your state of motion:
+
+1. Increase your speed
+2. Decrease your speed
+3. Change your direction
+
+Accelerations are produced by forces. You cannot have an acceleration without a net force present, and transversely you cannot have a net force without producing an acceleration.
 
 #### Formula
 
 > **Acceleration** = **Change in Velocity** / **Time**  
 > **a** = **v<sub>f</sub>** - **v<sub>i</sub>** / **t**
 
-- The SI Unit of acceleration is _ms<sup>2</sup>_
+- Acceleration is a vector quantity.
+- The SI Unit of acceleration is _m/s<sup>2</sup>_
 - Dimension = LT<sup>-2</sup> or M<sup>0</sup>L<sup>1</sup>T<sup>-2</sup>
+- Acceleration can be positive or negative.
 
 If the velocity is decreasing the acceleration is negative. The negative acceleration is also known as retardation or deceleration.
+
+#### Extra Formulas
+
+> _**v**<sub>f</sub>_ = _**v**<sub>i</sub>_ + **at**
 
 
 <details>
@@ -558,10 +609,36 @@ Where **a**_<sub>ins</sub>_ is the instantaneous acceleration of the body, **Δv
 </details>
 
 
+---
+
+<h2 align="center">Random</h2>
+
+---
 
 
+<details>
+<summary>Gravitational Acceleration</summary>
+<br>
 
+---
 
+at earth
+g = -9.81 m/s<sup>2</sup>
+
+at moon
+g = -1.62 m/s<sup>2</sup>
+
+Acceleration due to gravity is the rate at which an changes its velocity due to the force of gravity.  All objects dropped from the same spot will hit the ground in the same amount of time, regardless of mass.  On Earth, the average acceleration due to gravity is -9.81 m/s2.  Objects that do not hit the ground at the same time are experiencing air resistance, a frictional force that slows objects down.  Reducing the air resistance by changing the shape of the object can accomplish this.
+
+The acceleration due to gravity is ALWAYS negative.  Any object affected only by gravity (a projectile or an object in free fall) has an acceleration of -9.81 m/s2, regardless of the direction.  The acceleration is negative when going up because the speed is decreasing.  The acceleration is negative when going down because it is moving in the negative direction, down.  Even at the top of the path where the instantaneous speed is 0 m/s, the acceleration is still -9.81 m/s2.
+
+Whenever a problem mentions an object is "in free fall," "falling," "thrown, "tossed," or any other synonym, the constant value of acceleration due to gravity is assumed.  If the equation has a in it, like v = v0 + at, the acceleration is negative.  If the equation has g in it, like W = mg, direction is implied and the acceleration is positive.
+
+-10 m/s2 is an acceptable number to use for most calculations in problems, but -9.81 is the more accurate number.
+
+---
+
+</details>
 
 
 
